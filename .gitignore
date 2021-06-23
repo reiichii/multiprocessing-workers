@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+
+memo
+sample_multiprocessing_logger
